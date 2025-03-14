@@ -12,8 +12,6 @@ This repository contains a full implementation of the VGG16 network architecture
 - **Interactive Demo**: A feature to input an image index and view the corresponding image, ground truth, and predicted class.
 - **MPS Support**: Automatically detects and utilizes the MPS device when available, with fallback to CUDA or CPU.
 
-> This project was developed following the guidelines provided in the [Computer Vision Project 2 assignment](citeturn0file0).
-
 ## Features
 
 - **Manual VGG16 Implementation** using PyTorch’s autograd.
