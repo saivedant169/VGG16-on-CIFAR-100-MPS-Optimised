@@ -1,4 +1,3 @@
-Below is an example of a complete, professional README file that explains the project, its structure, and includes clear instructions for running the code optimized for Apple's MPS chipset.
 
 ---
 
